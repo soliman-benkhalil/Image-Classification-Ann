@@ -56,7 +56,7 @@ Feature extraction using HOG proved to be a powerful technique for this classifi
 
 Dataset Link On Kaggle : https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria
 
-Ann With Feature Extraction Code On Kaggle : https://www.kaggle.com/code/solimankhalil/ann-with-feature-extraction/edit
+Ann With Feature Extraction Code On Kaggle : [https://www.kaggle.com/code/solimankhalil/ann-with-feature-extraction/edit](https://www.kaggle.com/code/solimankhalil/ann-with-feature-extraction)
 
-Ann Without Feature Extraction Code On Kaggle : https://www.kaggle.com/code/solimankhalil/ann-without-feature-extraction/edit
+Ann Without Feature Extraction Code On Kaggle : [https://www.kaggle.com/code/solimankhalil/ann-without-feature-extraction/edit](https://www.kaggle.com/code/solimankhalil/ann-without-feature-extraction)
 
