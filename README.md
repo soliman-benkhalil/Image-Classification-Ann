@@ -54,9 +54,9 @@ These evaluation methods provided comprehensive insights into model performance,
 Feature extraction using HOG proved to be a powerful technique for this classification task, allowing for a simpler model architecture while achieving higher accuracy. This approach demonstrates the importance of thoughtful feature engineering in machine learning projects, often outperforming more complex models that work directly with raw data. Moreover, this project highlights that deep learning isn't just about automatic feature extraction, but can also benefit from well-designed manual feature extraction techniques.
 
 
-## Dataset Link On Kaggle : https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria
+Dataset Link On Kaggle : https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria
 
-## Ann With Feature Extraction Code On Kaggle : https://www.kaggle.com/code/solimankhalil/ann-with-feature-extraction/edit
+Ann With Feature Extraction Code On Kaggle : https://www.kaggle.com/code/solimankhalil/ann-with-feature-extraction/edit
 
-## Ann Without Feature Extraction Code On Kaggle : https://www.kaggle.com/code/solimankhalil/ann-without-feature-extraction/edit
+Ann Without Feature Extraction Code On Kaggle : https://www.kaggle.com/code/solimankhalil/ann-without-feature-extraction/edit
 
